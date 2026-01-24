@@ -11605,7 +11605,7 @@
 27	пасікаць	пасікаць	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	23	advcl	23:advcl:каб	SpaceAfter=No
 28	,	,	PUNCT	PUNCT	_	31	punct	31.1:punct	_
 29	ці	ці	CCONJ	CC	_	31	cc	31.1:cc	_
-30	як	як	ADV	RB	Degree=Pos	31	orphan	31.1:advmod	_
+30	як	як	ADV	WRB	Degree=Pos	31	orphan	31.1:advmod	_
 31	гэта	гэта	PRON	DT	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	27	conj	31.1:nsubj	_
 31.1	гаворыцца	гаворыцца	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	23:advcl:каб|27:conj	_
 32	ў	у	ADP	IN	_	33	case	33:case	_
@@ -17090,7 +17090,7 @@
 12	Я	я	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	13	nsubj	13:nsubj	_
 13	ведаю	ведаць	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	9	parataxis	9:parataxis	SpaceAfter=No
 14	,	,	PUNCT	PUNCT	_	18	punct	18:punct	_
-15	як	як	ADV	RB	Degree=Pos	18	advmod	18:advmod	_
+15	як	як	ADV	WRB	Degree=Pos	18	advmod	18:advmod	_
 16	нямецкі	нямецкі	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	17:amod	_
 17	народ	народ	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	18	nsubj	18:nsubj	_
 18	любіць	любіць	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	13	ccomp	13:ccomp	_
