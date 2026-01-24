@@ -19702,7 +19702,7 @@
 44	»	»	PUNCT	PUNCT	_	41	punct	41:punct	SpaceAfter=No
 45	"	"	PUNCT	PUNCT	_	41	punct	41:punct	_
 46	і	і	CCONJ	CC	_	48	cc	48:cc	_
-47	ўрачыста	урачыста	ADV	RB	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	48	advmod	48:advmod	_
+47	ўрачыста	урачыста	ADV	RB	Degree=Pos	48	advmod	48:advmod	_
 48	адракліся	адракцца	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	25	conj	0:root|25:conj	_
 49	ад	ад	ADP	IN	_	51	case	51:case	_
 50	расійскага	расійскі	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	51	amod	51:amod	_
