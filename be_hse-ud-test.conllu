@@ -17401,7 +17401,7 @@
 14	віды	від	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	conj	14.1:nsubj	_
 14.1	нараджаюць	нараджаць	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	1:conj	_
 15	—	—	PUNCT	PUNCT	_	16	punct	16:punct	_
-16	двойчы	двойчы	ADV	RB	_	14	orphan	14.1:advmod	_
+16	двойчы	двойчы	ADV	RB	Degree=Pos	14	orphan	14.1:advmod	_
 17	за	за	ADP	IN	_	18	case	18:case	_
 18	год	год	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obl	16:obl:за:acc	SpaceAfter=No
 19	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
