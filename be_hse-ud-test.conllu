@@ -698,7 +698,7 @@
 30	улады	улада	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	29	obj	29:obj	_
 31	Беларусі	Беларусь	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	30	nmod	30:nmod:gen	_
 32	як	як	SCONJ	IN	ExtPos=ADV	34	advmod	34:advmod	_
-33	мага	мага	VERB	PRED	_	32	fixed	32:fixed	_
+33	мага	мага	ADV	RB	Degree=Pos	32	fixed	32:fixed	_
 34	хутчэй	хутчэй	ADV	RBR	Degree=Cmp	35	advmod	35:advmod	_
 35	увесці	увесці	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	29	xcomp	29:xcomp	_
 36	мараторый	мараторый	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	35	obj	35:obj|42:nsubj|43:nsubj	_
