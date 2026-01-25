@@ -287,7 +287,7 @@
 14	Еўрасаюза	Еўрасаюз	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Masc|NameType=Geo|Number=Sing	13	nmod	13:nmod:gen	SpaceAfter=No
 15	,	,	PUNCT	PUNCT	_	20	punct	20:punct	_
 16	так	так	CCONJ	CC	_	20	cc	20:cc	_
-17	і	і	PART	UH	_	16	fixed	16:fixed	_
+17	і	і	CCONJ	CC	_	16	fixed	16:fixed	_
 18	ад	ад	ADP	IN	_	20	case	20:case	_
 19	асобных	асобны	ADJ	JJL	Case=Gen|Degree=Pos|Number=Plur	20	amod	20:amod	_
 20	краін	краіна	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	13	conj	10:obl:ад:gen|13:conj|25:nsubj	SpaceAfter=No
@@ -1965,7 +1965,7 @@
 5	беларускія	беларускі	ADJ	JJL	Case=Nom|Degree=Pos|Number=Plur	6	amod	6:amod	_
 6	прэм’еры	прэм’ера	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	2	nsubj	2:nsubj	SpaceAfter=No
 7	,	,	PUNCT	PUNCT	_	10	punct	10:punct	_
-8	так	так	ADV	RB	Degree=Pos	10	cc	10:cc	_
+8	так	так	CCONJ	CC	_	10	cc	10:cc	_
 9	і	і	CCONJ	CC	_	8	fixed	8:fixed	_
 10	фільмы	фільм	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	6	conj	2:nsubj|6:conj	_
 11	з	з	ADP	IN	_	13	case	13:case	_
@@ -4382,13 +4382,13 @@
 # text = Як і навінкі дакументальнага кіно, так і фільмы-удзельнікі фестываляў: “Docudays UA” (Кіеў), “Артдокфэст” (Масква), “Лістапад” (Мінск), IDFA (Амстэрдам), Кракаўскага кінафестывалю, “Golden Beggar” (Кошыцэ), ды нават прэтэндэнт на “Оскар-2019” ад Беларусі.
 # spelling = nar
 # genre = social-media
-1	Як	як	SCONJ	IN	_	3	cc	3:cc	_
+1	Як	як	CCONJ	CC	_	3	cc	3:cc	_
 2	і	і	PART	UH	_	1	fixed	1:fixed	_
 3	навінкі	навінка	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	0	root	0:root	_
 4	дакументальнага	дакументальны	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	5	amod	5:amod	_
 5	кіно	кіно	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	3:nmod:gen	SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	9	punct	9:punct	_
-7	так	так	ADV	RB	Degree=Pos	9	cc	9:cc	_
+7	так	так	CCONJ	CC	_	9	cc	9:cc	_
 8	і	і	CCONJ	CC	_	7	fixed	7:fixed	_
 9	фільмы	фільм	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	conj	0:root|3:conj	SpaceAfter=No
 10	-	-	PUNCT	PUNCT	_	11	punct	11:punct	SpaceAfter=No
