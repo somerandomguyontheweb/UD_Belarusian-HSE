@@ -14273,7 +14273,7 @@
 16	яе	яна	PRON	PRP	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	14	obl	14:obl:у:acc	_
 17	ня	ня	PART	NEG	Polarity=Neg	19	advmod	19:advmod	_
 18	будзе	быць	AUX	VBC	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	19	aux	19:aux	_
-19	як	як	VERB	PRED	_	1	conj	0:root|1:conj	SpaceAfter=No
+19	як	як	ADV	WRB	Degree=Pos	1	conj	0:root|1:conj	SpaceAfter=No
 20	.	.	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 # doc_id = 3077
