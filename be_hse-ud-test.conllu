@@ -11647,7 +11647,7 @@
 # text = "Ізусім навошта гэтыя слупы – выпілаваць, хай бы быў парк"...
 # genre = social-media
 1	"	"	PUNCT	PUNCT	_	3	punct	3:punct	SpaceAfter=No
-2	Ізусім	ізусім	ADV	RB	Degree=Pos	3	advmod	3:advmod	_
+2	Ізусім	зусім	ADV	RB	Degree=Pos|Typo=Yes	3	advmod	3:advmod	_
 3	навошта	навошта	ADV	RB	Degree=Pos	0	root	0:root	_
 4	гэтыя	гэты	DET	DT	Case=Nom|Number=Plur|PronType=Dem	5	det	5:det	_
 5	слупы	слуп	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	nsubj	3:nsubj	_

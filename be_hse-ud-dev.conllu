@@ -8136,7 +8136,7 @@
 6	на	на	ADP	IN	_	7	case	7:case	_
 7	аплату	аплата	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	4	obl	4:obl:на:acc	_
 8	краўдфандынгам	краўдфандынг	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	iobj	4:iobj	_
-9	асабіста	асабіст	ADV	RB	Degree=Pos	4	advmod	4:advmod	SpaceAfter=No
+9	асабіста	асабіста	ADV	RB	Degree=Pos	4	advmod	4:advmod	SpaceAfter=No
 10	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
 
 # newpar
@@ -12515,7 +12515,7 @@
 # genre = social-media
 1	Убачымся	убачыцца	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	0	root	0:root	_
 2	ўжо	ужо	ADV	RB	Degree=Pos	3	advmod	3:advmod	_
-3	паслязаўтра	паслязаўтр	ADV	RB	Degree=Pos	1	advmod	1:advmod	SpaceAfter=No
+3	паслязаўтра	паслязаўтра	ADV	RB	Degree=Pos	1	advmod	1:advmod	SpaceAfter=No
 4	!	!	PUNCT	PUNCT	_	1	punct	1:punct	_
 
 # doc_id = 65
