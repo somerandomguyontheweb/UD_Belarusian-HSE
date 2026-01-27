@@ -1569,9 +1569,9 @@
 6	мы	мы	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	7:nsubj|8:nsubj	_
 7	стараемся	старацца	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	0:root	_
 8	ўлічваць	улічваць	VERB	VB	Aspect=Imp|VerbForm=Inf|Voice=Act	7	xcomp	7:xcomp	_
-9	у	у	ADP	IN	ExtPos=ADV	8	advmod	8:advmod	_
-10	першую	першы	ADJ	ORD	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	9	fixed	9:fixed	_
-11	чаргу	чарга	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	9	fixed	9:fixed	_
+9	у	у	ADP	IN	_	11	case	11:case	_
+10	першую	першы	ADJ	ORD	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	11	amod	11:amod	_
+11	чаргу	чарга	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	nmod	12:nmod:у:acc	_
 12	пажаданні	пажаданне	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	8	obj	8:obj	_
 13	нашых	наш	DET	PRP$	Case=Gen|Number=Plur|Poss=Yes|PronType=Prs	14	det	14:det	_
 14	пасажыраў	пасажыр	NOUN	NN	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	nmod	12:nmod:gen	_
