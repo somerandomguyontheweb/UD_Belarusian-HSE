@@ -9013,7 +9013,7 @@
 7	кардон	кардон	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	16	obl	16:obl:праз:acc	SpaceAfter=No
 8	,	,	PUNCT	PUNCT	_	12	punct	12:punct	_
 9	нягледзячы	нягледзячы	ADP	IN	_	12	case	12:case	_
-10	на	на	ADP	IN	_	12	case	12:case	_
+10	на	на	ADP	IN	_	9	fixed	9:fixed	_
 11	памежныя	памежны	ADJ	JJL	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	12	amod	12:amod	_
 12	пасты	пост	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	15	obl	15:obl:нягледзячы_на:acc	SpaceAfter=No
 13	,	,	PUNCT	PUNCT	_	12	punct	12:punct	_
@@ -16165,9 +16165,9 @@
 # text = Нягледзячы на закрыцьцё Расеяй межаў, беларускія цягнікі ў Маскву і Пецярбург ходзяць паводле раскладу
 # spelling = tar
 # genre = news
-1	Нягледзячы	нягледзячы	ADV	RB	Degree=Pos|Polarity=Neg	13	advmod	13:advmod	_
-2	на	на	ADP	IN	_	3	case	3:case	_
-3	закрыцьцё	закрыцьцё	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	obl	1:obl:на:acc	_
+1	Нягледзячы	нягледзячы	ADP	IN	_	3	case	3:case	_
+2	на	на	ADP	IN	_	1	fixed	1:fixed	_
+3	закрыцьцё	закрыцьцё	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	13	obl	13:obl:нягледзячы_на:acc	_
 4	Расеяй	Расея	PROPN	NNP	Animacy=Inan|Case=Ins|Gender=Fem|NameType=Geo|Number=Sing	3	nmod	3:nmod:ins	_
 5	межаў	межа	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	3	nmod	3:nmod:gen	SpaceAfter=No
 6	,	,	PUNCT	PUNCT	_	1	punct	1:punct	_
@@ -20203,7 +20203,7 @@
 # text = Нягледзячы на якасную арганізацыю чэмпіянату свету 2002, у далейшым ФІФА мае намер не практыкаваць сумеснага правядзення турніраў пад сваёй эгідай.
 # spelling = nar
 # genre = wiki
-1	Нягледзячы	нягледзячы	ADV	RB	Degree=Pos|Polarity=Neg	4	case	4:case	_
+1	Нягледзячы	нягледзячы	ADP	IN	_	4	case	4:case	_
 2	на	на	ADP	IN	_	1	fixed	1:fixed	_
 3	якасную	якасны	ADJ	JJL	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	4	amod	4:amod	_
 4	арганізацыю	арганізацыя	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obl	12:obl:нягледзячы_на:acc	_
