@@ -22734,7 +22734,7 @@
 # genre = wiki
 1	Шматгадовыя	шматгадовы	ADJ	JJL	Case=Nom|Degree=Pos|Number=Plur	7	amod	7:amod	SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	4	punct	4:punct	_
-3	радзей	радка	ADV	RBR	Degree=Cmp	4	advmod	4:advmod	_
+3	радзей	рэдка	ADV	RBR	Degree=Cmp	4	advmod	4:advmod	_
 4	аднагадовыя	аднагадовы	ADJ	JJL	Case=Nom|Degree=Pos|Number=Plur	1	conj	1:conj|7:amod	SpaceAfter=No
 5	,	,	PUNCT	PUNCT	_	4	punct	4:punct	_
 6	шчыльнакустовыя	шчыльнакустовы	ADJ	JJL	Case=Nom|Degree=Pos|Number=Plur	7	amod	7:amod	_

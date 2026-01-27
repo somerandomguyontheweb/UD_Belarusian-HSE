@@ -14776,7 +14776,7 @@
 1	7	7	NUM	CD	NumType=Card	2	nummod	2:nummod	_
 2	рублёў	рубель	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	0	root	0:root	_
 3	-	-	PUNCT	PUNCT	_	4	punct	4:punct	_
-4	загадзя	загад	ADV	RB	Degree=Pos	2	advmod	2:advmod	_
+4	загадзя	загадзя	ADV	RB	Degree=Pos	2	advmod	2:advmod	_
 5	і	і	PART	UH	_	7	advmod	7:advmod	_
 6	ў	у	ADP	IN	_	7	case	7:case	_
 7	дзень	дзень	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	conj	2:advmod|4:conj	_
@@ -17435,7 +17435,7 @@
 # text = Выкарыстанне дамена .ac рэкамендуецца для сайтаў, якія датычаць вострава Узнясення, для кампаній і прыватных асоб, якія знаходзяцца на востраве Узнясення, выходзяць на яго рынак, і, натуральна, для ўсіх, каму падыходзіць гэтая даменная зона.
 # genre = wiki
 1	Выкарыстанне	выкарыстанне	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	4:nsubj	_
-2	дамена	дамен	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	1:nmod:gen	_
+2	дамена	дамен	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	1:nmod:gen	_
 3	.ac	.ac	X	X	Foreign=Yes	2	appos	2:appos	_
 4	рэкамендуецца	рэкамендаваць	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	0:root	_
 5	для	для	ADP	IN	_	6	case	6:case	_
@@ -17653,7 +17653,7 @@
 14	даных	даныя	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	13	nmod	13:nmod:gen	_
 15	пра	пра	ADP	IN	_	16	case	16:case	_
 16	ўладальніка	уладальнік	NOUN	NN	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	14	nmod	14:nmod:пра:acc	_
-17	дамена	дамена	ADV	RB	Degree=Pos	16	nmod	16:nmod	SpaceAfter=No
+17	дамена	дамена	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	16:nmod:gen	SpaceAfter=No
 18	.	.	PUNCT	PUNCT	_	10	punct	10:punct	SpacesAfter=\n\n
 
 # newpar
@@ -17694,7 +17694,7 @@
 # genre = wiki
 1	Ажыццявіць	ажыццявіць	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	6	csubj	6:csubj	_
 2	падаўжэнне	падаўжэнне	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	1	obj	1:obj	_
-3	дамена	дамена	X	X	_	2	nmod	2:nmod	_
+3	дамена	дамен	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	2:nmod:gen	_
 4	.ac	.ac	X	X	Foreign=Yes	3	appos	3:appos	_
 5	абавязкова	абавязкова	ADV	RB	Degree=Pos	6	advmod	6:advmod	_
 6	неабходна	неабходны	ADJ	JJH	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	0:root	_
@@ -17856,7 +17856,7 @@
 # text = Аднаўленне дамена .ac у працоўны стан пасля сканчэння тэрміну яго рэгістрацыі платнае.
 # genre = wiki
 1	Аднаўленне	аднаўленне	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj	12:nsubj	_
-2	дамена	дамен	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	1	nmod	1:nmod:gen	_
+2	дамена	дамен	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	1:nmod:gen	_
 3	.ac	.ac	X	X	Foreign=Yes	2	appos	2:appos	_
 4	у	у	ADP	IN	_	6	case	6:case	_
 5	працоўны	працоўны	ADJ	JJL	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	6:amod	_
@@ -17889,7 +17889,7 @@
 # text = Аднаўленне дамена магчымае не ва ўсіх выпадках, уважліва сачыць за тэрмінам рэгістрацыі вашага дамена для таго, каб пазбегнуць яго страты.
 # genre = wiki
 1	Аднаўленне	аднаўленне	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	3	nsubj	3:nsubj	_
-2	дамена	дамена	ADV	RB	Degree=Pos	3	advmod	3:advmod	_
+2	дамена	дамена	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	1:nmod:gen	_
 3	магчымае	магчымы	ADJ	JJL	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	0:root	_
 4	не	не	PART	NEG	Polarity=Neg	7	advmod	7:advmod	_
 5	ва	у	ADP	IN	_	7	case	7:case	_
@@ -18274,7 +18274,7 @@
 33	20	20	NUM	CD	NumType=Card	31	nmod	31:nmod:per	_
 34	ад	ад	ADP	IN	_	35	case	35:case	_
 35	вышыні	вышыня	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	31	nmod	31:nmod:ад:gen	_
-36	палатна	палатна	ADV	RB	Degree=Pos	35	nmod	35:nmod	SpaceAfter=No
+36	палатна	палатно	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	35	nmod	35:nmod:gen	SpaceAfter=No
 37	)	)	PUNCT	PUNCT	_	29	punct	29:punct	SpaceAfter=No
 38	,	,	PUNCT	PUNCT	_	39	punct	39:punct	_
 39	сіняга	сіні	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	27	conj	27:conj|74:amod	_
@@ -18286,7 +18286,7 @@
 45	20	20	NUM	CD	NumType=Card	43	nmod	43:nmod:per	_
 46	ад	ад	ADP	IN	_	47	case	47:case	_
 47	вышыні	вышыня	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	43	nmod	43:nmod:ад:gen	_
-48	палатна	палатна	ADV	RB	Degree=Pos	47	nmod	47:nmod	SpaceAfter=No
+48	палатна	палатно	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	47	nmod	47:nmod:gen	SpaceAfter=No
 49	)	)	PUNCT	PUNCT	_	41	punct	41:punct	SpaceAfter=No
 50	,	,	PUNCT	PUNCT	_	51	punct	51:punct	_
 51	белага	белы	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	27	conj	27:conj|74:amod	_
@@ -18298,7 +18298,7 @@
 57	20	20	NUM	CD	NumType=Card	55	nmod	55:nmod:per	_
 58	ад	ад	ADP	IN	_	59	case	59:case	_
 59	вышыні	вышыня	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	55	nmod	55:nmod:ад:gen	_
-60	палатна	палатна	ADV	RB	Degree=Pos	59	nmod	59:nmod	SpaceAfter=No
+60	палатна	палатно	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	59	nmod	59:nmod:gen	SpaceAfter=No
 61	)	)	PUNCT	PUNCT	_	53	punct	53:punct	_
 62	і	і	CCONJ	CC	_	63	cc	63:cc	_
 63	зялёнага	зялёны	ADJ	JJL	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	27	conj	27:conj|74:amod	_
@@ -18310,7 +18310,7 @@
 69	20	20	NUM	CD	NumType=Card	67	nmod	67:nmod:per	_
 70	ад	ад	ADP	IN	_	71	case	71:case	_
 71	вышыні	вышыня	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	67	nmod	67:nmod:ад:gen	_
-72	палатна	палатна	ADV	RB	Degree=Pos	71	nmod	71:nmod	SpaceAfter=No
+72	палатна	палатно	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	71	nmod	71:nmod:gen	SpaceAfter=No
 73	)	)	PUNCT	PUNCT	_	65	punct	65:punct	_
 74	колераў	колер	NOUN	NN	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	22	nmod	22:nmod:gen	SpaceAfter=No
 75	.	.	PUNCT	PUNCT	_	4	punct	4:punct	SpacesAfter=\n\n\n\n
