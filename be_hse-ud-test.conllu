@@ -699,7 +699,7 @@
 31	Беларусі	Беларусь	PROPN	NNP	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	30	nmod	30:nmod:gen	_
 32	як	як	SCONJ	IN	ExtPos=ADV	34	advmod	34:advmod	_
 33	мага	мага	ADV	RB	Degree=Pos	32	fixed	32:fixed	_
-34	хутчэй	хутчэй	ADV	RBR	Degree=Cmp	35	advmod	35:advmod	_
+34	хутчэй	хутка	ADV	RBR	Degree=Cmp	35	advmod	35:advmod	_
 35	увесці	увесці	VERB	VB	Aspect=Perf|VerbForm=Inf|Voice=Act	29	xcomp	29:xcomp	_
 36	мараторый	мараторый	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	35	obj	35:obj|42:nsubj|43:nsubj	_
 37	на	на	ADP	IN	_	39	case	39:case	_
@@ -1642,7 +1642,7 @@
 13	у	у	ADP	IN	_	14	case	14:case	_
 14	Лондан	Лондан	PROPN	NNP	Animacy=Inan|Case=Acc|Gender=Masc|NameType=Geo|Number=Sing	12	nmod	12:nmod:у:acc	SpaceAfter=No
 15	,	,	PUNCT	PUNCT	_	18	punct	18:punct	_
-16	бо	бо	ADV	RB	Degree=Pos	18	mark	18:mark	_
+16	бо	бо	SCONJ	IN	_	18	mark	18:mark	_
 17	авіякампанія	авіякампанія	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	18	nsubj	18:nsubj|19:nsubj	_
 18	выступае	выступаць	VERB	VBC	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	advcl	10:advcl:бо	_
 19	перавозчыкам	перавозчык	NOUN	NN	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	18	xcomp	18:xcomp	_
@@ -11562,8 +11562,8 @@
 # sent_id = AbaronaKurapatou-15087
 # text = Толькі што на ў рэдакцыю напісала наша актывістка:
 # genre = social-media
-1	Толькі	толькі	PART	UH	_	6	advmod	6:advmod	_
-2	што	што	PRON	WP	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Int	1	fixed	1:fixed	_
+1	Толькі	толькі	ADV	RB	Degree=Pos	6	advmod	6:advmod	_
+2	што	што	SCONJ	IN	_	1	fixed	1:fixed	_
 3	на	на	ADP	IN	_	5	case	5:case	_
 4	ў	у	ADP	IN	_	5	case	5:case	_
 5	рэдакцыю	рэдакцыя	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	6	obl	6:obl:на:acc	_
