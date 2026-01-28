@@ -12152,7 +12152,7 @@
 5	які	які	DET	WPA	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Rel	6	det	6:det	_
 6	час	час	NOUN	NN	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	3	csubj	3:csubj	_
 7	і	і	CCONJ	CC	_	8	cc	8:cc	_
-8	дзе	дзе	ADV	RB	Degree=Pos	6	conj	3:ccomp|6:conj	SpaceAfter=No
+8	дзе	дзе	ADV	WRB	Degree=Pos	6	conj	3:ccomp|6:conj	SpaceAfter=No
 9	.	.	PUNCT	PUNCT	_	3	punct	3:punct	_
 
 # doc_id = 1011
@@ -19304,7 +19304,7 @@
 30	са	з	ADP	IN	_	31	case	31:case	_
 31	стужкай	стужка	NOUN	NN	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	29	nmod	29:nmod:з:ins|35:advmod	SpaceAfter=No
 32	,	,	PUNCT	PUNCT	_	35	punct	35:punct	_
-33	дзе	дзе	ADV	WRB	Degree=Pos	35	advmod	31:ref	_
+33	дзе	дзе	ADV	RB	Degree=Pos	35	advmod	31:ref	_
 34	быў	быць	AUX	VBC	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	35	aux:pass	35:aux:pass	_
 35	напісаны	напісаць	VERB	VBNH	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	31	acl:relcl	31:acl:relcl	_
 36	такі	такі	DET	DT	Case=Nom|Gender=Masc|Number=Sing	37	det	37:det	_
