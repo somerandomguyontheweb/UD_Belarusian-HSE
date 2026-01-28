@@ -11412,7 +11412,7 @@
 # genre = social-media
 1	Цікава	цікавы	ADJ	PRED	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	PUNCT	_	5	punct	5:punct	_
-3	як	як	ADV	WRB	Degree=Pos	4	advmod	4:advmod	_
+3	як	як	ADV	RB	Degree=Pos	4	advmod	4:advmod	_
 4	хутка	хутка	ADV	RB	Degree=Pos	5	advmod	5:advmod	_
 5	скончацца	скончыцца	VERB	VBC	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	1	csubj	1:csubj	_
 6	квіткі	квіток	NOUN	NN	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	5	nsubj	5:nsubj	SpaceAfter=No
